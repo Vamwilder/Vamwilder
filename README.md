@@ -9,5 +9,6 @@
  - HTML
  - CSS, BootStrap
  - JavaScript, NodeJS
+ - Java
  - MySql, Sequelize
 
