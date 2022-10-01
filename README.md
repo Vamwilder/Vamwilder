@@ -10,5 +10,6 @@
  - CSS, BootStrap
  - JavaScript, NodeJS
  - Java
+ - C#
  - MySql, Sequelize
 
